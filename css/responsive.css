@@ -1,0 +1,10 @@
+@media(max-width: 450px) {
+
+    body{
+        margin: 15% 0%;
+    }
+    .main-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
